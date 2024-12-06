@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karen's Portfolio</title>
+    
+</head>
+
+<body>
+    <h1 >Karen's Portfolio</h1>
+
+        <h2>About</h2>
+     <p> Hi! I'm Karen. I'm creating this portfolio.</p>
+        <img src= "test.png" width="20%">
+
+    <h2>Projects</h2>
+    <ul>
+        <li> <a href="https://www.google.com">project 1 </a> 
+        </li>
+        <li> <a href="https://www.google.com">project 2 </a>
+        </li>
+        <li> <a href="https://www.google.com">project 3 </a>
+        </li>
+        <li> <a href="https://www.google.com">project 4 </a>
+        </li>
+        <li> <a href="https://www.google.com">project 5 </a>
+        </li>
+        <li> <a href="https://www.google.com">project 6 </a>
+        </li>
+        <li> <a href="https://www.google.com">project 7 </a>
+        </li>
+        <li> <a href="https://www.google.com">project 8 </a>
+        </li>
+    </ul>
+</body>
+</html>
+
+<!-- this is a comment like "// js comment"-->
